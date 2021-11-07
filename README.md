@@ -12,6 +12,11 @@ I've been interested in programming for a long time and my main interests have b
 
 I do love programming and do that too. Most of the time though I'm configuring my homelab. 
 
+### 📕 Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://opcode.xyz
 [blog]: https://serverspike.io
 [linkedin]: https://www.linkedin.com/in/erik-karsten-20a6291ba/
