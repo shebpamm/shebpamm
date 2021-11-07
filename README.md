@@ -14,7 +14,10 @@ I do love programming and do that too. Most of the time though I'm configuring m
 
 ### 📕 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Setting up pfSense inside ESXi](https://serverspike.io/setting-up-pfsense-inside-esxi/)
+- [Applying a naming scheme to all hosts using Ansible](https://serverspike.io/applying-a-naming-scheme-to-all-hosts-using-ansible/)
+- [Automating VM creation with Kickstart and Ansible without using a PXE server](https://serverspike.io/automating-vm-creation-with-kickstart-and-ansible-without-using-a-pxe-server/)
+- [Setting up Ghost with a dynamic IP on RHEL 8](https://serverspike.io/setting-up-ghost-with-a-dynamic-ip/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://opcode.xyz
