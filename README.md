@@ -1,8 +1,8 @@
-## Hello! I'm Erik, an aspiring network engineer :wave:
+## Hello! I'm Erik and I like managing software :wave:
 
 **[ [website] ] [ [blog] ] [ [linkedin] ]**
 
-### I'm a 20 year old Information Technology student from Finland
+### I'm a 22 year old Information Technology student from Finland
 
 - 🐣 Joined GitHub when I was 11
 - 🐤 First commit at 14 years old
@@ -10,7 +10,7 @@
 
 I've been interested in programming for a long time and my main interests have been in **IT Infrastructure Management** and **System Administration**. 
 
-I do love programming and do that too. Most of the time though I'm configuring my homelab. 
+I do love programming and do that too. Most of the time though I'm configuring my homelab.
 
 ### 📕 Blog Posts
 <!-- BLOG-POST-LIST:START -->
