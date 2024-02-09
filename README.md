@@ -2,7 +2,7 @@
 
 **[ [website] ] [ [blog] ] [ [linkedin] ]**
 
-### I'm a 22 year old Information Technology student from Finland
+### I'm a 23 year old Site Reliability Engineer from Finland
 
 - 🐣 Joined GitHub when I was 11
 - 🐤 First commit at 14 years old
